@@ -30,4 +30,5 @@ class PokemonTest {
         assertTrue(pokemon1.compareTo(pokemon4) < 0);
         assertTrue(pokemon5.compareTo(pokemon4) > 0);
     }
+
 }
